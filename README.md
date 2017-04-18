@@ -108,4 +108,4 @@ It's recommended to create an instance of `ApiClient` per thread in a multithrea
 
 ## Authors
 
-* **[Mert Sarac](https://github.com/saracmert** - *Initial work*)
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
