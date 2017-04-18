@@ -1,4 +1,4 @@
-# swagger-android-client
+# Switch API Android Client
 
 ## Requirements
 
@@ -102,16 +102,10 @@ Class | Method | HTTP request | Description
  - [WhereItem](docs/WhereItem.md)
 
 
-## Documentation for Authorization
-
-All endpoints do not require authorization.
-Authentication schemes defined for the API:
-
 ## Recommendation
 
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
 
-## Author
+## Authors
 
-
-
+* **[Mert Sarac](https://github.com/saracmert** - *Initial work*)
